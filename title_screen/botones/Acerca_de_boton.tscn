@@ -4,6 +4,8 @@
 
 [node name="Acerca_de_boton" instance=ExtResource( 1 )]
 
+scene_to_load = null
+
 [node name="Label" parent="." index="0"]
 
 text = "Acerca De"

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/logo.png-c700766299fba61bf4d7abb2b84574d9.stex"
+path="res://.import/30F.jpg-2fa3ffa7151b23f406efdd7f7fff2ef3.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://title_screen/logo.png"
-dest_files=[ "res://.import/logo.png-c700766299fba61bf4d7abb2b84574d9.stex" ]
+source_file="res://title_screen/Escenas_juego/Facil/Preguntas/30F.jpg"
+dest_files=[ "res://.import/30F.jpg-2fa3ffa7151b23f406efdd7f7fff2ef3.stex" ]
 
 [params]
 

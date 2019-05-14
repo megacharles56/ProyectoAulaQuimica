@@ -4,6 +4,8 @@
 
 [node name="Opcion_boton" instance=ExtResource( 1 )]
 
+scene_to_load = "res://title_screen/Opciones.tscn"
+
 [node name="Label" parent="." index="0"]
 
 text = "Opciones"
